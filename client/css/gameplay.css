@@ -94,7 +94,10 @@ background-repeat:no-repeat;
     margin-left: 15px;
     margin-top: 15px;
 }
-
+.grid{
+	padding-bottom: 5px;
+	background-color: rgba(255, 255, 255, .7);
+}
 .grid .row {
 	clear: left;
 	margin-left: 0;
