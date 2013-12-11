@@ -49,10 +49,14 @@
 	margin-top: 3px;
 }
 .game-container{
-	/*background-color:  	#FF0000;*/
+	
 background-image:url('http://wakpaper.com/large/Waterfalls_wallpapers_24.jpg');
 background-repeat:no-repeat;
-background-size: 110%;
+/*background-size: 110%;*/
+ background-size: cover;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
         border-radius: 10px;
         padding: 10px;
         margin-left:  5px;
